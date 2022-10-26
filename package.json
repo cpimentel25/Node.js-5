@@ -1,0 +1,26 @@
+{
+  "name": "node.js-5",
+  "version": "1.0.0",
+  "description": "NodeJs05",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "personajes": "node index.js personajes",
+    "episodios": "node index.js episodios",
+    "episodios 1": "node index.js episodios 1",
+    "personajes 1": "node index.js personajes 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpimentel25/Node.js-5.git"
+  },
+  "author": "CPimentel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpimentel25/Node.js-5/issues"
+  },
+  "homepage": "https://github.com/cpimentel25/Node.js-5#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
